@@ -66,3 +66,43 @@ Add user authentication for admin listing management
 
 🙌 Author
 Developed by Fawadullah – beginner frontend developer passionate about clean design and modern UI/UX.
+
+# 👋 Hi, I'm Fawadullah
+
+## 🚀 Full Stack Developer
+
+I'm a passionate Full Stack Developer with expertise in building modern web applications using React, Node.js, and other cutting-edge technologies.
+
+### 🛠️ Tech Stack
+
+- **Frontend:** React.js, JavaScript, HTML5, CSS3, Tailwind CSS
+- **Backend:** Node.js, Express.js
+- **Database:** MongoDB, Firebase
+- **Tools:** Git, GitHub, VS Code
+- **Deployment:** Netlify, Vercel, GitHub Pages
+
+### 🌟 Featured Projects
+
+1. **[Real Estate Website](https://fawadullah11.github.io/RealState-website/)**
+   - A modern real estate platform built with React and Firebase
+   - Features include property listings, user authentication, and contact forms
+   - Technologies: React, Firebase, Tailwind CSS, Vite
+
+### 📊 GitHub Stats
+
+![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=fawadullah11&show_icons=true&theme=radical)
+
+### 🌐 Connect With Me
+
+- [LinkedIn](https://linkedin.com/in/fawadullah11)
+- [Twitter](https://twitter.com/fawadullah11)
+- [Portfolio](https://fawadullah11.github.io)
+
+### 📫 How to Reach Me
+
+- Email: [Your Email]
+- GitHub: [@fawadullah11](https://github.com/fawadullah11)
+
+---
+
+⭐️ From [@fawadullah11](https://github.com/fawadullah11)

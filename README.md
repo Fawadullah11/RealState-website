@@ -15,11 +15,11 @@ A modern, fully responsive real estate website built using **React.js** and **Ta
 
 ## 📸 Screenshots
 
-*(Add screenshots to an `/assets` folder and update these links)*
+![Screenshot 2025-05-08 165815](https://github.com/user-attachments/assets/a5463573-3909-4a68-8eb4-b5433d1a7bc5)
+ 
+![Screenshot 2025-05-08 165845](https://github.com/user-attachments/assets/c59dc4f4-e36a-4b01-87a2-76dccd88da64)
 
-![Screenshot 2025-05-08 011130](https://github.com/user-attachments/assets/e11d2aeb-a06e-4d34-a7d6-167d35a51e25)
-![Screenshot 2025-05-08 011147](https://github.com/user-attachments/assets/c88fb105-7cfb-475e-b53b-0a3604ac5231)
-![Screenshot 2025-05-08 011208](https://github.com/user-attachments/assets/4a454590-5c1b-471f-995a-d27cb00ff2ff)
+![Screenshot 2025-05-08 165901](https://github.com/user-attachments/assets/5a3a2aa3-61f7-47c9-abd7-5cbd99315e0f)
 
 ## 🚀 Features
 

@@ -55,7 +55,7 @@ function LoginForm() {
             required
           />
         </div>
-        <Button type="submit" className="w-full" disabled={loading}>
+        <Button type="submit" className="w-[100px] mx-auto" disabled={loading}>
           {loading ? 'Logging in...' : 'Login'}
         </Button>
       </form>

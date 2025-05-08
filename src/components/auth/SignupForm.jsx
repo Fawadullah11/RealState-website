@@ -89,7 +89,7 @@ function SignupForm() {
             required
           />
         </div>
-        <Button type="submit" className="w-full" disabled={loading}>
+        <Button type="submit" className="w-[50%] mx-auto" disabled={loading}>
           {loading ? 'Creating Account...' : 'Sign Up'}
         </Button>
       </form>

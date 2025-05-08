@@ -7,7 +7,10 @@ function HeroSection({ image, page }) {
       className={`${styles["hero-section"]} relative md:h-[80vh] h-[60vh] text-white flex items-center justify-center text-center`}>
       <div
         className={styles.background}
-        style={{ backgroundImage: `url(${image || photo})` }}></div>
+        style={{ 
+          backgroundImage: `url(${image || photo})`,
+          zIndex: 1 
+        }}></div>
       <div className="relative z-10">
         <h1 className="sm:text-5xl text-3xl uppercase font-bold mb-[15px]">
           {page}

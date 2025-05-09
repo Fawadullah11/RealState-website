@@ -2,9 +2,8 @@
 
 A modern, fully responsive real estate website built using **React.js** and **Tailwind CSS**. This project features a clean UI, smooth scrolling, and a professional layout ideal for showcasing real estate listings or services.
 
-## 🌐 Live Preview
 
-🔗 [Live Demo](real-state-dev.netlify.app)
+
 
 ## ⚙️ Tech Stack
 

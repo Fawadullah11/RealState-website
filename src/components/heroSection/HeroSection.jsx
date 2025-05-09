@@ -9,7 +9,7 @@ function HeroSection({ image, page }) {
         className={styles.background}
         style={{ 
           backgroundImage: `url(${image || photo})`,
-          zIndex: 1 
+          zIndex: styles["hero-section"] ? 0 : -1 
         }}></div>
       <div className="relative z-10">
         <h1 className="sm:text-5xl text-3xl uppercase font-bold mb-[15px]">

@@ -4,7 +4,7 @@ A modern, fully responsive real estate website built using **React.js** and **Ta
 
 ## 🌐 Live Preview
 
-🔗 [Live Demo](https://fawadullah11.github.io/RealState-website/)
+🔗 [Live Demo](real-state-dev.netlify.app)
 
 ## ⚙️ Tech Stack
 
@@ -14,12 +14,11 @@ A modern, fully responsive real estate website built using **React.js** and **Ta
 - **Vite** or **Create React App** – (depending on what you used)
 
 ## 📸 Screenshots
+![Screenshot 2025-05-08 165815](https://github.com/user-attachments/assets/45cfd521-2094-43f3-8dad-e416e4da5c1d)
 
-![Screenshot 2025-05-08 165815](https://github.com/user-attachments/assets/a5463573-3909-4a68-8eb4-b5433d1a7bc5)
- 
-![Screenshot 2025-05-08 165845](https://github.com/user-attachments/assets/c59dc4f4-e36a-4b01-87a2-76dccd88da64)
+![Screenshot 2025-05-08 165845](https://github.com/user-attachments/assets/d8859372-8197-4f2a-900d-c1108606d8c3)
 
-![Screenshot 2025-05-08 165901](https://github.com/user-attachments/assets/5a3a2aa3-61f7-47c9-abd7-5cbd99315e0f)
+![Screenshot 2025-05-08 165901](https://github.com/user-attachments/assets/af5ed342-6879-42f2-8692-dc60c87f52cc)
 
 ## 🚀 Features
 
